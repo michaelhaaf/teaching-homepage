@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+Author: Michael Haaf
+Contact: michael [dot] haaf [at] johnabbott [dot] qc [dot] ca
+From: Montreal, QC
+
+# TECHNOLOGY COLOPHON
+Doctype:HTML5
